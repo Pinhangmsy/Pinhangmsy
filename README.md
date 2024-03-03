@@ -2,7 +2,7 @@
 #### Software Developer
 ![Software Developer](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif)
 
-Merhaba ben Abdürrezzak kendimi hem web hem de mobil de kısmında geliştiriyor full stack olma yolunda emin adımlarla ilerliyorum.
+Merhaba ben Abdürrezzak kendimi hem web hem de mobil kısmında geliştiriyor full stack olma yolunda emin adımlarla ilerliyorum.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
